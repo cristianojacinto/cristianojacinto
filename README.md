@@ -6,7 +6,7 @@ ___negrito e italico___
 - Lista 1
 - Lista 2
   - Sublista
-![Teste Naruto]([https://wallpapercave.com/wp/wp3483304.jpg](https://tenor.com/pt-PT/view/cat-typing-typing-on-computer-computer-work-laptop-gif-21481919))
+![Teste Naruto](https://media1.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif)
 
 `sytem.out.println()`
 
