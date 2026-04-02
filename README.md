@@ -12,9 +12,12 @@
 
 ## 👨🏾‍💻 About Me
 
-Location: Angola <br>
+<p align="center">
+  
+Location: Angola 
 Role: Data Analyst and  Data Engineer
 Focus: Data Analisys | Data Pipelines | BI | Building Data Werehouses | Scalable Systems
+</p>
 
 I specialize in transforming raw data into strategic insights and scalable architectures.
 With hands-on experience in ETL, PL/SQL, and Microsoft Power Platform, I design solutions that bridge business needs and technical execution.
