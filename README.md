@@ -12,7 +12,7 @@
 
 ## 👨🏾‍💻 About Me
 
-Location: Angola
+Location: Angola <br>
 Role: Data Analyst and  Data Engineer
 Focus: Data Analisys | Data Pipelines | BI | Building Data Werehouses | Scalable Systems
 
