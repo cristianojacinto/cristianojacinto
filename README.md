@@ -27,7 +27,7 @@ I am also passionate about:
 
 
 
-[Teach Stack process](https://drive.google.com/file/d/1iiBJD_je8ffyqr0kKW0H5_4mhGf6UJcH/)
+[Teach Stack process](img/mermaid-diagram.png)
 
 
 ##📊 GitHub Analytics
