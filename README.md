@@ -1,27 +1,19 @@
-## Hi there 👋
-<!-- Cabeçalhos -->
+<!-- HEADER ANIMATION -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Cristiano%20Jacinto%20da%20Gama&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-*italico* ou _italico_
-___negrito e italico___
-- Lista 1
-- Lista 2
-  - Sublista
-![Teste Naruto](https://media1.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif)
+<!-- TYPING EFFECT -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;Data+Engineer;ETL+Specialist;Power+Platform+Developer;Building+Data+Driven+Solutions&center=true&width=500&height=45">
+</p>
 
-`sytem.out.println()`
+---
 
+## 👨🏾‍💻 About Me
 
-<!--
-**cristianojacinto/cristianojacinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Name: Cristiano Jacinto da Gama
+Location: Angola
+Role: Data Analyst and  Data Engineer
+Focus: Data Pipelines | BI | Scalable Systems
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
