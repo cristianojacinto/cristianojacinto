@@ -51,7 +51,7 @@ I am also passionate about:
 
 ## 🌐 Connect With Me
 <p align="center"> <a href="https://www.linkedin.com/in/cristiano-jacinto-da-gama/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"> </a> </p>
-<p align="center"> <a href="https://www.instagram.com/cristianojacinto_cj15_analyst/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"> </a> </p>
+<p align="center"> <a href="https://www.instagram.com/cristianojacinto_cj15_analyst/"> <img src="https://img.shields.io/badge/Instagram-Connect-blue?style=for-the-badge&logo=linkedin"> </a> </p>
 
 ## ⚡ Philosophy
 <p align="center"> <i>"Transforming data into impact, systems into scale, and ideas into innovation."</i> </p>
