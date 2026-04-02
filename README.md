@@ -27,7 +27,7 @@ I am also passionate about:
 
 
 
-[Teach Stack process](img/mermaid-diagram.png)
+![Teach Stack process](img/mermaid-diagram.png)
 
 
 ##📊 GitHub Analytics
